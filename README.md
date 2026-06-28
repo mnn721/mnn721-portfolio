@@ -34,4 +34,4 @@ My goal is to begin a career in cybersecurity where I can apply technical skills
 
 ## 📫 Connect with Me
 
-- LinkedIn: *https://www.linkedin.com/in/monica-navarro-bb1b892ba/*
+- LinkedIn: *https://www.linkedin.com/in/monica-navarro-profile/*
