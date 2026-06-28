@@ -24,5 +24,5 @@ chmod g-x drafts
 
 ## Files
 
-- Linux_File_Permissions.pdf
+- File permissions in Linux.pdf
 - Command screenshots
