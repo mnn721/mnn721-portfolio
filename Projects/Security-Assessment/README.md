@@ -36,7 +36,7 @@ This project focused on assessing an organization's security posture by identify
 
 ## Files Included
 
-* Security_Assessment_Report.pdf
+* Botium_Toys_Security_Audit_Report.pdf
 
 ## Key Takeaways
 
