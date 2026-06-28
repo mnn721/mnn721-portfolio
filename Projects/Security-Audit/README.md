@@ -49,8 +49,7 @@ This project involved conducting a security audit for Botium Toys by reviewing i
 
 ## Files Included
 
-* Controls and Compliance Checklist
-* Security Audit Report
+* Botium_Toys_Security_Audit_Report.pdf
 
 ## Key Takeaways
 
