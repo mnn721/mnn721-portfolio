@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio!
 
-I'm currently completing the Google Cybersecurity Professional Certificate and building hands-on experience with Linux, networking, SQL, Python, and security analysis.
+I'm an aspiring cybersecurity professional with a Bachelor of Science from Full Sail University and the Google Cybersecurity Professional Certificate. I'm passionate about protecting systems, solving technical challenges, and continuously expanding my knowledge through hands-on projects. This GitHub showcases my cybersecurity portfolio, including projects in Linux, security auditing, risk assessment, access control, and other practical cybersecurity skills.
 
 ## 🎯 Career Objective
 
