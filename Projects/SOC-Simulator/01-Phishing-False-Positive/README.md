@@ -113,7 +113,7 @@ The `screenshots` folder contains evidence collected during the investigation, i
 - SIEM Investigation
 - Threat Intelligence Results
 - Final Case Report
-- 
+
 ## Key Takeaways
 
 - Not every phishing alert represents malicious activity.
