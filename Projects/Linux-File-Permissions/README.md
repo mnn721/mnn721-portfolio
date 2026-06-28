@@ -25,4 +25,3 @@ chmod g-x drafts
 ## Files
 
 - File permissions in Linux.pdf
-- Command screenshots
