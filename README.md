@@ -19,10 +19,6 @@ My goal is to begin a career in cybersecurity where I can apply technical skills
 - Wireshark (Learning)
 - Splunk (Learning)
 
-## 📂 Portfolio Projects
-
-Projects will be added here as I complete them.
-
 ### Linux File Permissions
 ✔ Reviewed Linux file permissions using `ls -la`
 
