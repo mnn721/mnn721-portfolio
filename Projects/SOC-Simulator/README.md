@@ -1,21 +1,32 @@
-Project: SOC Alert Investigation
+# SOC Analyst Investigation Portfolio
 
-Overview
+## Overview
 
-Completed a simulated Security Operations Center (SOC) investigation by analyzing security alerts, reviewing logs, identifying indicators of compromise (IOCs), and determining the appropriate response to potential security incidents.
+This repository contains investigations completed using the TryHackMe SOC Simulator. Each investigation follows a structured incident response methodology, including alert triage, SIEM log analysis, IOC identification, threat intelligence validation, incident classification, and security recommendations.
 
-Skills Demonstrated
+## Skills Demonstrated
 
-• Alert triage
-• Log analysis
-• Threat detection
-• Incident investigation
-• IOC identification
-• Security documentation
+- Alert Triage
+- SIEM Investigation
+- Firewall Log Analysis
+- Threat Intelligence Analysis
+- IOC Identification
+- Incident Classification
+- Incident Documentation
+- Security Recommendations
 
-Tools Used
+## Tools Used
 
-• TryHackMe SOC Simulator
-• SIEM
-• Windows Event Logs
-• Linux Logs
+- TryHackMe SOC Simulator
+- Splunk SIEM
+- TryDetectThis
+- Windows Event Logs
+- Firewall Logs
+
+## Investigations
+
+| Investigation | Classification |
+|---------------|---------------|
+| Firewall Blocked Malicious URL | True Positive |
+| Phishing Email Investigation | False Positive |
+| (More coming soon...) | |
