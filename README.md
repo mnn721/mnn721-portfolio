@@ -13,11 +13,11 @@ My goal is to begin a career in cybersecurity where I can apply technical skills
 - Linux
 - Network Security
 - SQL
-- Python (Learning)
+- Python
 - Access Control
 - File Permissions
-- Wireshark (Learning)
-- Splunk (Learning)
+- Wireshark
+- Splunk
 
 ### Linux File Permissions
 ✔ Reviewed Linux file permissions using `ls -la`
